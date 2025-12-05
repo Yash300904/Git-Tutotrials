@@ -1,1 +1,1 @@
-This is utility function for version 3
+This is utility function in github 
